@@ -34,4 +34,4 @@ App sederhana untuk menampilkan konten youtuber (niatnya).
     - Menggunakan paket `url_launcher` untuk membuka tautan eksternal.
 
 ## Demo
-![](demo.gif)
+[demo.webm](https://github.com/user-attachments/assets/855e78b9-fc8a-4b3c-bf82-ad5c3606a41a)
